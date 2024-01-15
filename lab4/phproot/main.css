@@ -1,0 +1,56 @@
+body 
+{
+  font: 10pt Arial, Helvetica, sans-serif;
+  color: black;
+  background: #fff0f0;
+}
+
+div
+{
+  margin: 10px;
+}
+
+a:link 
+{
+  color: black;
+  text-decoration-line: none;
+}
+a:visited 
+{
+  color: black;
+  text-decoration-line: none;
+}
+a:hover 
+{
+  color: blue;
+  text-decoration-line: underline;
+}
+a:active 
+{
+  color: blue;
+  text-decoration-line: none;
+}
+
+table, th, td 
+{
+  border: 1px solid;
+  border-collapse: collapse;
+  padding: 5px;
+}
+
+th
+{
+  font: 10pt Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+td.header
+{
+  font: 10pt Arial, Helvetica, sans-serif;
+  font-weight: bold;
+}
+
+td 
+{
+  font: 10pt Arial, Helvetica, sans-serif;
+}
